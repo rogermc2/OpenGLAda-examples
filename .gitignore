@@ -1,3 +1,8 @@
 obj
 lib
 *.exe
+*.DS_Store
+*.vpj
+*.vpw
+*.vpwhistu
+*.zip
